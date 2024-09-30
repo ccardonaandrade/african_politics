@@ -1,1 +1,1 @@
-# african_politics
+# African Politics
