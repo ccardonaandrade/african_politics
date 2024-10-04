@@ -48,7 +48,7 @@ polity5 <- polity5 %>% select(polity_annual_country, year, democ,autoc,polity,po
 
 # Uploading the coup dataset
 # https://militarycoups.org/
-coupdata <- read_csv("data/cam_wide_3.0.csv")
+coupdata <- read_csv("data/coups/cam_wide_3.0.csv")
 
 
 # Let's again keep African countries
